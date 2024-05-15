@@ -1,5 +1,5 @@
 
-#GAME SUMMARY:
+# GAME SUMMARY:
 
 in an arena where players engage in battles and adventures.
 It begins with the main function, where a game session is initiated.
@@ -14,13 +14,13 @@ If the player successfully navigates through a map and accesses a door, they pro
 The game continues until the player decides to quit.
 
 
-#SYSTEM DESIGN USED: 
+# SYSTEM DESIGN USED: 
 1. Builder Pattern (Simplify building game Characters by splitting the constructions into packages)
 2. Factory Pattern (used along with Builder pattern to finalize Character and map creation)
 3. Observer Pattern (it was essential for the players to know about each other's states, and it was important to notify the map of changes happening to Enemites, players, and everything else on the map,
                      so I had to connect everything using Observer pattern)
 
 
-#Game Engine:
+# Game Engine:
   1. The game Engine is designed to render and refresh The Map, Characters, Enemies, Chest, and Friends in the terminal
   2. Navigate between Maps 
