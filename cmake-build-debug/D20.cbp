@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="D20"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D20">
+				<Option output="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/bin/D20.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/include"/>
+					<Add directory="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 D20"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D20/fast">
+				<Option output="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/bin/D20.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/include"/>
+					<Add directory="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 D20/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/arena/combatarena/combatarena.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/arena/combatarena/combatarena.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/arena/friendarena/friendarena.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/arena/friendarena/friendarena.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/asciitable.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/character.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/character.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/characterObserverPattern/CharacterObserver.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/characterObserverPattern/CharacterObserver.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/friend.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/friend.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/itemcontainer.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/character/itemcontainer.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemieBuilder/creeps/creeps.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemieBuilder/creeps/creeps.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemieBuilder/titan/titan.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemieBuilder/titan/titan.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemy.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/enemy/enemy.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/player.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/player.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/playerBuilder/builtPlayer.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/playerBuilder/builtPlayer.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/abstract_character_builder.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/abstract_character_builder.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/assasin/assasin.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/assasin/assasin.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/axe/axe.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/axe/axe.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/bloodSeeker/bloodSeeker.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/bloodSeeker/bloodSeeker.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/spiritBreaker/spiritBreaker.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/characters/player/players/spiritBreaker/spiritBreaker.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/controllers/gameController/gameController.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/controllers/gameController/gameController.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/dice/dice.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/dice/dice.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/donut.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/items/equipment/equipment.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/items/equipment/equipment.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/items/item/item.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/items/item/item.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/logs/logWriter.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/logs/logWriter.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/main.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/maps/campaign/campaign.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/maps/campaign/campaign.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/maps/map/map.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/maps/map/map.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/renderEngine/gameView/gameView.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/renderEngine/gameView/gameView.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/abilityscores/abilityscores.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/abilityscores/abilityscores.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/hp/hp.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/hp/hp.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/levelsystem/levelsystem.cpp">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/src/stats/levelsystem/levelsystem.h">
+			<Option target="D20"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/Concordia/Past Terms/Winter2024/COMP_345_Advanced_Design_IN_C++/Dungeons and Dragons D20 Game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
