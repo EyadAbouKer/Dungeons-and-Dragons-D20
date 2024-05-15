@@ -20,7 +20,13 @@ The game continues until the player decides to quit.
 3. Observer Pattern (it was essential for the players to know about each other's states, and it was important to notify the map of changes happening to Enemites, players, and everything else on the map,
                      so I had to connect everything using Observer pattern)
 
+# Other Design Choices:
+1. OOP:  Inheritance, Multi-Inheritance, Friendly Access, Polymorphism
+   
 
 # Game Engine:
   1. The game Engine is designed to render and refresh The Map, Characters, Enemies, Chest, and Friends in the terminal
-  2. Navigate between Maps 
+  2. Navigate between Maps
+
+![image](https://github.com/EyadAbouKer/Dungeons-and-Dragons-D20/assets/126291554/19b0ecc5-c12b-4754-9954-f1998b632441)
+
