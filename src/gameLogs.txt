@@ -1,0 +1,461 @@
+ENEMIE DEAD16:0:2 13/4/2024 
+
+SETTING HP TO 7016:9:14 13/4/2024 
+
+ADDING ITEM TO INVENTORY16:9:14 13/4/2024 
+
+WRITING CHARACTER ABILITIES 16:9:14 13/4/2024 
+
+WRITING CHARACTER ABILITIES 16:9:15 13/4/2024 
+
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Player View                                              |
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Name: AXE
+|                                                            position(X,Y): (,  )
+| HP          |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
+| Attack      |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
++---------------------------------------------------------------------------------------------------------------------+
+|                                                             Abilities                                               |
++---------------------------------------------------------------------------------------------------------------------+
+| Strength    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北 8
+| Dexterity   |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北 5 
+| Constitution|北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Intelligence|圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 4
+| Wisdom      |北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Charisma    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 4
++---------------------------------------------------------------------------------------------------------------------+
+16:9:15 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:15 13/4/2024 
+
+LOADING CAMPAIGN SELECTOR16:9:15 13/4/2024 
+
+triming leading and trailing whitespaces from a string16:9:15 13/4/2024 
+
+triming leading and trailing whitespaces from a string16:9:15 13/4/2024 
+
+MAP CHOSEN IS16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+ADDING MAP 16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+A PLAYER IS BEING CREATED16:9:16 13/4/2024 
+
+FETCHING PLAYER INFO FROM FILE16:9:16 13/4/2024 
+
+ADDING MAP 16:9:16 13/4/2024 
+
+GETTING CURRENT MAP16:9:19 13/4/2024 
+
+TAKING LOOT16:9:30 13/4/2024 
+
+ADDING ITEM TO INVENTORY16:9:32 13/4/2024 
+
+ADDING ITEM TO INVENTORY16:9:32 13/4/2024 
+
+ADDING ITEM TO INVENTORY16:9:32 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:39 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:39 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:39 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:40 13/4/2024 
+
+ENEMEY ATTACKING16:9:40 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:40 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:41 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:41 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:41 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:41 13/4/2024 
+
+ENEMEY ATTACKING16:9:41 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:41 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:42 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:42 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:42 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:42 13/4/2024 
+
+Player ATTACKING16:9:42 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:42 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:42 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:43 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:43 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:43 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:43 13/4/2024 
+
+ENEMEY ATTACKING16:9:43 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:43 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:44 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:44 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:44 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:44 13/4/2024 
+
+ENEMEY ATTACKING16:9:44 13/4/2024 
+
+HEALING 16:9:44 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:45 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:45 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:45 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:45 13/4/2024 
+
+Player ATTACKING16:9:45 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:45 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:45 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:46 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:46 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:46 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:46 13/4/2024 
+
+ENEMEY ATTACKING16:9:46 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:46 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:47 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:47 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:47 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:47 13/4/2024 
+
+Player ATTACKING16:9:47 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:47 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:47 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:48 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:48 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:48 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:48 13/4/2024 
+
+Player ATTACKING16:9:48 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:48 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:48 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:49 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:49 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:49 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:49 13/4/2024 
+
+ENEMEY ATTACKING16:9:49 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:49 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:50 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:50 13/4/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:9:50 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:50 13/4/2024 
+
+Player ATTACKING16:9:50 13/4/2024 
+
+DAMAGE TAKEN BY PLAYER16:9:50 13/4/2024 
+
+ENEMIE DEAD16:9:50 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:55 13/4/2024 
+
+HEALING 16:9:56 13/4/2024 
+
+PROGRESS BAR IS BEING PRINTED16:9:56 13/4/2024 
+
+SETTING HP TO 7016:13:42 15/5/2024 
+
+ADDING ITEM TO INVENTORY16:13:42 15/5/2024 
+
+WRITING CHARACTER ABILITIES 16:13:42 15/5/2024 
+
+WRITING CHARACTER ABILITIES 16:13:55 15/5/2024 
+
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Player View                                              |
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Name: AXE
+|                                                            position(X,Y): (,  )
+| HP          |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
+| Attack      |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
++---------------------------------------------------------------------------------------------------------------------+
+|                                                             Abilities                                               |
++---------------------------------------------------------------------------------------------------------------------+
+| Strength    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北 9
+| Dexterity   |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北 6 
+| Constitution|北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Intelligence|圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 3
+| Wisdom      |北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Charisma    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 4
++---------------------------------------------------------------------------------------------------------------------+
+16:13:55 15/5/2024 
+
+A PLAYER IS BEING CREATED16:13:55 15/5/2024 
+
+LOADING CAMPAIGN SELECTOR16:13:55 15/5/2024 
+
+triming leading and trailing whitespaces from a string16:13:55 15/5/2024 
+
+triming leading and trailing whitespaces from a string16:13:55 15/5/2024 
+
+MAP CHOSEN IS16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+ADDING MAP 16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+A PLAYER IS BEING CREATED16:14:2 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:14:2 15/5/2024 
+
+ADDING MAP 16:14:2 15/5/2024 
+
+GETTING CURRENT MAP16:14:5 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:15 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:15 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:15 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:18 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:18 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:18 15/5/2024 
+
+Down ARROW PRESSED16:14:18 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:18 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:18 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:18 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:19 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:19 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:19 15/5/2024 
+
+UP ARROW PRESSED16:14:19 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:19 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:19 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:19 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:20 15/5/2024 
+
+ENEMEY ATTACKING16:14:20 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:20 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:21 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:21 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:21 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:22 15/5/2024 
+
+Player ATTACKING16:14:22 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:22 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:22 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:23 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:23 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:23 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:24 15/5/2024 
+
+Player ATTACKING16:14:24 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:24 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:24 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:25 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:25 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:25 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:26 15/5/2024 
+
+ENEMEY ATTACKING16:14:26 15/5/2024 
+
+DAMAGE TAKEN BY PLAYER16:14:26 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:27 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:27 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:27 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:28 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:28 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:28 15/5/2024 
+
+Down ARROW PRESSED16:14:28 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:28 15/5/2024 
+
+PROGRESS BAR IS BEING PRINTED16:14:28 15/5/2024 
+
+PLAYER CHOSE ATTACK OR Flee16:14:28 15/5/2024 
+
+TAKING LOOT16:14:30 15/5/2024 
+
+SETTING HP TO 7016:25:5 15/5/2024 
+
+ADDING ITEM TO INVENTORY16:25:5 15/5/2024 
+
+WRITING CHARACTER ABILITIES 16:25:5 15/5/2024 
+
+WRITING CHARACTER ABILITIES 16:25:6 15/5/2024 
+
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Player View                                              |
++---------------------------------------------------------------------------------------------------------------------+
+|                                                            Name: AXE
+|                                                            position(X,Y): (,  )
+| HP          |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
+| Attack      |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北 70
++---------------------------------------------------------------------------------------------------------------------+
+|                                                             Abilities                                               |
++---------------------------------------------------------------------------------------------------------------------+
+| Strength    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北 8
+| Dexterity   |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北 6 
+| Constitution|北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Intelligence|圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 4
+| Wisdom      |北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 0
+| Charisma    |圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北 4
++---------------------------------------------------------------------------------------------------------------------+
+16:25:6 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:6 15/5/2024 
+
+LOADING CAMPAIGN SELECTOR16:25:6 15/5/2024 
+
+triming leading and trailing whitespaces from a string16:25:6 15/5/2024 
+
+triming leading and trailing whitespaces from a string16:25:6 15/5/2024 
+
+MAP CHOSEN IS16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+ADDING MAP 16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+A PLAYER IS BEING CREATED16:25:9 15/5/2024 
+
+FETCHING PLAYER INFO FROM FILE16:25:9 15/5/2024 
+
+ADDING MAP 16:25:9 15/5/2024 
+
+GETTING CURRENT MAP16:25:12 15/5/2024 
+
