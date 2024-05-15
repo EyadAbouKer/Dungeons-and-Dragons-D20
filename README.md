@@ -1,4 +1,7 @@
-GAME SUMMARY: in an arena where players engage in battles and adventures.
+
+GAME SUMMARY:
+
+in an arena where players engage in battles and adventures.
 It begins with the main function, where a game session is initiated.
 The player is prompted to choose a character from a list including an Axe-wielder, an Assassin, a Blood Seeker, or a Spirit Breaker.
 After selecting a character, the game initializes and the chosen player is prepared for battle.
