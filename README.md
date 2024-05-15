@@ -12,3 +12,10 @@ Upon encountering enemies, the player engages in combat within a combat arena, w
 Loot found in chests can be added to the player's inventory.
 If the player successfully navigates through a map and accesses a door, they proceed to the next stage of the campaign.
 The game continues until the player decides to quit.
+
+
+SYSTEM DESIGN USED: 
+1. Builder Pattern (Simplify building game Characters by splitting the constructions into packages)
+2. Factory Pattern (used along with Builder pattern to finalize Character and map creation)
+3. Observer Pattern (it was essential for the players to know about each other's states, and it was important to notify the map of changes happening to Enemites, players, and everything else on the map,
+                     so I had to connect everything using Observer pattern)
