@@ -22,11 +22,11 @@ The game continues until the player decides to quit.
 
 # Other Design Choices:
 1. OOP:  Inheritance, Multi-Inheritance, Friendly Access, Polymorphism
-   
+   ![image](https://github.com/EyadAbouKer/Dungeons-and-Dragons-D20/assets/126291554/19b0ecc5-c12b-4754-9954-f1998b632441)
 
 # Game Engine:
   1. The game Engine is designed to render and refresh The Map, Characters, Enemies, Chest, and Friends in the terminal
   2. Navigate between Maps
 
-![image](https://github.com/EyadAbouKer/Dungeons-and-Dragons-D20/assets/126291554/19b0ecc5-c12b-4754-9954-f1998b632441)
+
 
