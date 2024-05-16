@@ -1,5 +1,6 @@
 # Game Demo:
 ![Dungeons And Dragons D20](https://www.youtube.com/watch?v=DZtvYKIUk3Q)
+[![YouTube Video Preview](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=DZtvYKIUk3)
 
 
 # GAME SUMMARY:
